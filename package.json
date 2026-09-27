@@ -1,0 +1,16 @@
+{
+  "name": "oauthdoctor",
+  "version": "0.1.0",
+  "description": "Read-only MCP OAuth discovery diagnostics: 401 challenge, WWW-Authenticate resource_metadata, Protected Resource Metadata, authorization server metadata",
+  "type": "module",
+  "bin": { "oauthdoctor": "bin/oauthdoctor.mjs" },
+  "engines": { "node": ">=18" },
+  "scripts": { "test": "node --test" },
+  "keywords": ["mcp", "oauth", "discovery", "diagnostics", "model-context-protocol", "ai-agents", "protected-resource-metadata", "401"],
+  "license": "MIT",
+  "author": { "name": "Eidon", "url": "https://github.com/xka0085-byte" },
+  "repository": { "type": "git", "url": "git+https://github.com/xka0085-byte/oauthdoctor.git" },
+  "homepage": "https://github.com/xka0085-byte/oauthdoctor#readme",
+  "bugs": { "url": "https://github.com/xka0085-byte/oauthdoctor/issues" },
+  "files": ["bin", "README.md", "LICENSE"]
+}

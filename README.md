@@ -57,3 +57,8 @@ All tools are read-only, take no keys, and emit JSON.
 Live tools page: <https://x402-endpoint-inspection.app.workbuddy.host/tools.html>
 
 MIT © 2026 xka0085-byte (Eidon)
+---
+
+## Suite hub
+
+Part of the [Agent / Chain Evidence Tools](https://xka0085-byte.github.io/evidence-tools/) suite — read-only, no-keys, no-payments diagnostics for AI agents on Web3.
